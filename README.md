@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Pursuing BCA (Bachelor of Computer Applications) from LPU Distance Education<br>💡 Aspiring Full-Stack Developer, passionate about AI & Machine Learning<br>🌱 Currently learning JavaScript, CSS, SQL, React, Node.js, Django<br>🔭 Actively learning and building projects (No job/internship yet)
+🎓 Pursuing BCA (Bachelor of Computer Applications) from LPU Distance Education<br>💡 Aspiring Full-Stack Developer, passionate about AI & Machine Learning<br>🌱 Currently learning HTML, JavaScript, CSS, SQL, React, Node.js, Django<br>🔭 Actively learning and building projects (No job/internship yet)
 
 
 ## 🌐 Socials:
